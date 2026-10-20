@@ -8,4 +8,6 @@ Proyecto práctico de Git para trabajar con ramas, commits, merges y resolución
 
 ## Instalación
 
-Abrir index.html en un navegador.
+Para instalar el proyecto, descarga el repositorio desde GitHub.
+
+Abre index.html en tu navegador.
