@@ -8,4 +8,8 @@ Proyecto práctico de Git para trabajar con ramas, commits, merges y resolución
 
 ## Instalación
 
-Abrir index.html en un navegador.
+Para ejecutar Café Aroma localmente:
+
+1. Descargar los archivos del proyecto.
+2. Abrir la carpeta sitio-cafe-aroma.
+3. Ejecutar index.html en un navegador.
